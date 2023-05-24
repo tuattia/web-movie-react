@@ -64,6 +64,7 @@ const App = () => {
       <header className='p-4'>
         <h1>Movie App</h1>
       </header>
+        <h1>Popular Movie</h1>
       <div className="w-full flex flex-wrap justify-center items-center gap-3 ">
         <PopularMovieList />
       </div>
