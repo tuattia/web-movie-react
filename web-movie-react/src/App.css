@@ -16,6 +16,10 @@
   color: black;
 } */
 
-.w-500px {
-  width: 500px;
+.w-300px {
+  width: 200px;
+}
+
+.h-custom {
+  height: 350px;
 }

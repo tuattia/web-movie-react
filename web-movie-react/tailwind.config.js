@@ -5,6 +5,9 @@ export default {
     "./index.html"
   ],
   theme: {
+  fontSize: {
+    
+  },
     extend: {},
   },
   plugins: [],
