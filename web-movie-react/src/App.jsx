@@ -100,12 +100,12 @@ const App = () => {
           </div>
         </div>
       </nav>
-      <div className="w-full h-custom flex grid grid-flow-col grid-rows-2 gap-4 bg-gray-800">
-        <div className="row-span-2 bg-slate-100">
-          <h1>asdmasd</h1>
+      <div className="w-full h-custom bg-gray-800">
+        <div className="py-5 font-bold justify-center items-center ">
+          <h1 className="text-xl">Attia Movie</h1>
         </div>
-        <div className="row-span-2 ">
-          <img src="assets/poster.jpeg" alt="" />
+        <div className="">
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius eos aspernatur, odit aliquid asperiores et natus provident inventore vitae ipsam tempore nobis esse, dolor numquam eaque quidem quod. Aut adipisci dolor reprehenderit, eos earum optio ea excepturi soluta odit iste animi facere. Dolorem minima consectetur recusandae voluptatem perferendis sapiente tempora.</p>
         </div>
       </div>
       <h1 className="flex m-4 ml-10 font-bold justify-left items-left">Now Playing Movie</h1>
